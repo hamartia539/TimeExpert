@@ -25,7 +25,7 @@
 Code will come soon. Feel free to chat with me via wechat if you have problem: YZH__leo.
 
 - [x] Paper accepted by ICCV.
-- [ ] Release Time-Expert.
+- [x] Release [TimeExpert](https://huggingface.co/mwxely/TimeExpert-10B).
 - [ ] Release inference code.
 - [ ] Release training code.
 
