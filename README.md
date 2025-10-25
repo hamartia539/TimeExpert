@@ -35,7 +35,7 @@ Video Temporal Grounding (VTG) aims to precisely identify video event segments i
 
 ## Results
 
-We achieve the SoTA results for multiple TVG tasks, including Dense Video Captioning, Temporal Video Grounding.
+We achieve the SoTA results for multiple TVG tasks, including Dense Video Captioning, Temporal Video Grounding, beating previous approaches by large margins.
 
 <img src='sota.PNG' align="center">
 
