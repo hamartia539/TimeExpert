@@ -16,7 +16,7 @@
 
 ## Dates
 
-- [06.26] Accepted.
+- [06.26] Accepted with Score (5/5/4). Thanks for my reviewers!!
 - [10.25] In person at Hawaii. Feel free to chat.
 - [10.26] Code released.
 
