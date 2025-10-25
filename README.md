@@ -24,10 +24,10 @@
 
 Code will come soon. Feel free to chat with me via wechat if you have problem: YZH__leo.
 
-[x] Paper accepted by ICCV.
-[ ] Release Time-Expert.
-[ ] Release inference code.
-[ ] Release training code.
+- [x] Paper accepted by ICCV.
+- [ ] Release Time-Expert.
+- [ ] Release inference code.
+- [ ] Release training code.
 
 ## Abstract
 
