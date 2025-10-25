@@ -3,7 +3,7 @@
 [![GitHub license](https://badgen.net/github/license/Naereen/Strapdown.js)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE)
 
 <div align="center">
-<h1>TimeExpert: An Expert-Guided Video LLM for Video Temporal Grounding [<a href="https://arxiv.org/abs/2508.01699">Paper</a>]</h1>
+<h1>TimeExpert: An Expert-Guided Video LLM for Video Temporal Grounding [<a href="https://arxiv.org/abs/2508.01699">Paper</a>] [<a href="https://mwxely.github.io/projects/yang2025time/index">Project Page</a>]</h1>
 
 <div>
     <a href='https://mwxely.github.io/' target='_blank'>Zuhao Yang†</a> 
